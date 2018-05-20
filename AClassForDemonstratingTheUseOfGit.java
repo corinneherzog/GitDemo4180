@@ -1,5 +1,5 @@
 public class AClassForDemonstratingTheUseOfGit {
     public static void main(String[] args) {
-        System.out.println("Hello, gti!");
+        System.out.println("Hello, git!");
     }
 }
