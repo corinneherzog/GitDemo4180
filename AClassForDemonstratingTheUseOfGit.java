@@ -1,6 +1,6 @@
 public class AClassForDemonstratingTheUseOfGit {
     public static void main(String[] args) {
-        System.out.println("Hello, git!");
+        sayHello("git");
     }
 
     public static void sayHello(String toWhom) {
