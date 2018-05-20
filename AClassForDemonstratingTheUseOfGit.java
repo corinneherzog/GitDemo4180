@@ -1,9 +1,9 @@
 public class AClassForDemonstratingTheUseOfGit {
-    public static void main(String[] args) {
-        System.out.println("Hello, git!");
+    public static void main(String[] le_args) {
+        System.out.println("Bonjour, git!");
     }
 
-    public static void sayHello(String toWhom) {
-        System.out.println("Hello, " + toWhom + "!");
+    public static void sayHello(String le_toWhom) {
+        System.out.println("Bonjour, " + le_toWhom + "!");
     }
 }
